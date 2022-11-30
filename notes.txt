@@ -1,3 +1,0 @@
-Bryce would like this macro to work by hitting a keyboard shortcut.
-This would work on his end by having a selection highlighted, and for each row, running the
-scraper, searching for those specific objects.
